@@ -9,6 +9,6 @@ Files:
 6.	GradeReporting.py
 7.	new.py
 
-•	connection.py has functions for creating database, establishing connections between python and MySQL workbench, running different queries.
-•	The password and database name must be given in 3, 4, 5, 6 files that is given in connection.py file.
-•	new.py file is the client file.
+* connection.py has functions for creating database, establishing connections between python and MySQL workbench, running different queries.
+* The password and database name must be given in 3, 4, 5, 6 files that is given in connection.py file.
+* new.py file is the client file.
